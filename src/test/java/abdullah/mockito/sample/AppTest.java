@@ -1,4 +1,4 @@
-package abdullah.mockito_sample;
+package abdullah.mockito.sample;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
@@ -13,8 +13,8 @@ import org.mockito.Mockito;
 import org.mockito.Spy;
 import org.mockito.junit.MockitoJUnitRunner;
 
-import controller.MainFrontContoller;
-import utilities.Utility;
+import abdullah.mockito.sample.controller.MainFrontContoller;
+import abdullah.mockito.sample.utilities.Utility;
 
 /**
  * @author muhammadabdullah The requirements are as follows: 

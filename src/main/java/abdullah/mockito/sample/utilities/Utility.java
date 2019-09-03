@@ -1,4 +1,4 @@
-package utilities;
+package abdullah.mockito.sample.utilities;
 
 public class Utility {
 

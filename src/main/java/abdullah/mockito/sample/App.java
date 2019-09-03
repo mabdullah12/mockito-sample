@@ -1,4 +1,4 @@
-package abdullah.mockito_sample;
+package abdullah.mockito.sample;
 
 /**
  * Hello world!

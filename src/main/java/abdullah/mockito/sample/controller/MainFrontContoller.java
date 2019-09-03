@@ -1,8 +1,9 @@
-package controller;
+package abdullah.mockito.sample.controller;
 
 import javax.inject.Inject;
 
-import utilities.Utility;
+import abdullah.mockito.sample.utilities.Utility;
+
 
 public class MainFrontContoller {
 
